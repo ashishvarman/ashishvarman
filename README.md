@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ashishvarman
 - 👀 I’m interested in almost anything and everything
-- 🌱 I’m currently learning react, d3fc, react-vis
+- 🌱 I’m currently learning nodejs, microservices, redis, react
+- My earlier experience has been mostly with C++, Visual Studio, Qt, Linux
 - 💞️ I’m looking to collaborate on anything that tickles my fantasy
 - 📫 How to reach me - just mail me on gmail or msg me here
 
